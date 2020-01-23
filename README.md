@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[GraphQL](https://www.apollographql.com/docs/react/)
+[Source Demo](https://www.sitepoint.com/how-to-build-a-web-app-with-graphql-and-react/)
 
 ## Available Scripts
 
